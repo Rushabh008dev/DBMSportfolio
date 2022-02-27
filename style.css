@@ -15,7 +15,7 @@ html{
 body
 {
     min-height: 100vh;
-    background: url('../DBMSProject/img/c2.jpg');
+    background: url('./img/c2.jpg');
     background-size: 100%;
 }
 
